@@ -4,7 +4,7 @@
       <Title> Our Background </Title>
       <div class="description-container">
         <div>
-          <img src="src/assets/images/feature-image.jpg" />
+          <img src="/src/assets/images/feature-image.jpg" />
         </div>
         <div class="description">
           <span class="description-title">Who we are & what we do?</span>
@@ -31,7 +31,7 @@
       <Title> Our team members </Title>
       <div class="members">
         <div class="card">
-          <img src="src/assets/images/team_01.jpg" />
+          <img src="/src/assets/images/team_01.jpg" />
           <span class="card-name">Johnny William</span>
           <span class="card-title">CO-Founder</span>
           <p class="card-description">
@@ -40,7 +40,7 @@
           </p>
         </div>
         <div class="card">
-          <img src="src/assets/images/team_02.jpg" />
+          <img src="/src/assets/images/team_02.jpg" />
           <span class="card-name">Karry Pitcher</span>
           <span class="card-title">Product Expert</span>
           <p class="card-description">
@@ -49,7 +49,7 @@
           </p>
         </div>
         <div class="card">
-          <img src="src/assets/images/team_03.jpg" />
+          <img src="/src/assets/images/team_03.jpg" />
           <span class="card-name">Michael Soft</span>
           <span class="card-title">Chief Marketing</span>
           <p class="card-description">
@@ -58,7 +58,7 @@
           </p>
         </div>
         <div class="card">
-          <img src="src/assets/images/team_04.jpg" />
+          <img src="/src/assets/images/team_04.jpg" />
           <span class="card-name">Mary Cool</span>
           <span class="card-title">Product Specialist</span>
           <p class="card-description">
@@ -67,7 +67,7 @@
           </p>
         </div>
         <div class="card">
-          <img src="src/assets/images/team_05.jpg" />
+          <img src="/src/assets/images/team_05.jpg" />
           <span class="card-name">George Walker</span>
           <span class="card-title">Product Photographer</span>
           <p class="card-description">
@@ -76,7 +76,7 @@
           </p>
         </div>
         <div class="card">
-          <img src="src/assets/images/team_06.jpg" />
+          <img src="/src/assets/images/team_06.jpg" />
           <span class="card-name">Kate Town</span>
           <span class="card-title">General Manager</span>
           <p class="card-description">
@@ -91,7 +91,7 @@
         <div class="card front">
           <div class="card-top">
             <div class="icon">
-              <img src="src/assets/images/gear.png" />
+              <img src="/src/assets/images/gear.png" />
             </div>
           </div>
           <span class="card-name">Product Management</span>
@@ -104,7 +104,7 @@
         <div class="card front">
           <div class="card-top">
             <div class="icon">
-              <img src="src/assets/images/gear.png" />
+              <img src="/src/assets/images/gear.png" />
             </div>
           </div>
           <span class="card-name">Customer Relations</span>
@@ -117,7 +117,7 @@
         <div class="card front">
           <div class="card-top">
             <div class="icon">
-              <img src="src/assets/images/gear.png" />
+              <img src="/src/assets/images/gear.png" />
             </div>
           </div>
           <span class="card-name">Global Collection</span>
@@ -132,11 +132,11 @@
     <div class="content">
       <Title> Happy Partners </Title>
       <div class="partners">
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
       </div>
     </div>
   </main>

@@ -168,7 +168,7 @@
           </ul>
         </div>
         <div class="about-right">
-          <img src="src/assets/images/feature-image.jpg" />
+          <img src="/src/assets/images/feature-image.jpg" />
         </div>
         <Button>Read More</Button>
       </div>

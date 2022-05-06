@@ -4,7 +4,7 @@
       <Title> Our Location on Maps </Title>
       <div class="container">
         <div>
-          <img src="src/assets/images/map.jpg" />
+          <img src="/src/assets/images/map.jpg" />
         </div>
         <div class="description">
           <span class="description-title">About our office</span>
@@ -51,11 +51,11 @@
       </div>
       <Title> Our Happy Customers </Title>
       <div class="partners">
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
-        <img src="src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
+        <img src="/src/assets/images/client-01.png" />
       </div>
     </div>
   </main>
