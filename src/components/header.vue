@@ -30,7 +30,7 @@ main {
   left: 0;
   // width: 100%;
   // height: 50%;
-  background-image: url("./src/assets/images/slide-01.jpg");
+  background-image: url("/src/assets/images/slide-01.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: contain;
