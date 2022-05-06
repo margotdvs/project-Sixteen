@@ -1,5 +1,5 @@
 <template>
-  <main style="background-image: url('./src/assets/images/slide_01.jpg')">
+  <main style="background-image: url('/src/assets/images/slide_01.jpg')">
     <div class="header-container">
       <div class="header-content">
         <div class="left">
