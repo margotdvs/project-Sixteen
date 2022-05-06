@@ -1,6 +1,5 @@
 {
-  "name": "SIXTEEN-MARGOTDVS",
-  "homepage": "https://margotdvs.github.io/project-Sixteen/",
+  "name": "frontend",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
